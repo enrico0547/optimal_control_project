@@ -1,4 +1,4 @@
-# Optimal_Control_of_flexible_surface
+# Optimal Control of an Underactuated Flexible Surface
 Together with Luca Malferrari and Filippo Ugolini, we developed this project as part of the final examination for the Optimal Control course in the Automation Engineering program at the University of Bologna.
 
 The goal of this project is to design an optimal control strategy for an actuated flexible surface,
