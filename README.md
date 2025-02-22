@@ -24,5 +24,5 @@ which models the behavior of adaptive wing structures in aircraft or unmanned ae
 
 For further details, please refer to the attached PDF report.
 
-Best regards,
+Best regards,  
 Enrico Battistini.
