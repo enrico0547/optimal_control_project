@@ -15,7 +15,7 @@ which models the behavior of adaptive wing structures in aircraft or unmanned ae
 - armijo.py : Computation of the Armijo stepsize.
 - main.py : Entry point of the project program.
 
-# NOTE: consideration inside the reference_trajectory.py:
+ NOTE: consideration inside the reference_trajectory.py:
 - if 'step_reference' (inside the main) is True the function gen() is used to compute the reference trajectory between two equilibria,  
   otherwise the function gen_swing() is used to compute smooth transition between four equilibria.
 - if 'step' is True (and also 'step_reference' is True) the function gen() returns a step reference trajectory between two equilibria, otherwise a smooth       
